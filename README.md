@@ -1,2 +1,2 @@
 # cnode
-cnode移动端社区
+基于vue和vux开发的cnode移动端社区
